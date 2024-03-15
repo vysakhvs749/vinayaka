@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&display=swap");
+
 /********** Template CSS **********/
 :root {
     --primary: #ed1b24;
@@ -497,3 +499,15 @@
 .newdelete:hover{
     color: yellow !important;
 }
+.shoph{
+    color: #ed1b24;
+    text-shadow: -0.01em -0.01em 0.01em #000;
+    padding-top: 4%;
+    font-size: 22px;
+    font-family: "Audiowide", cursive;
+}
+.shoph:hover{
+    color:#0f172b;
+}
+
+
